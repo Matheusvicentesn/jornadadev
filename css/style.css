@@ -10,6 +10,10 @@ a{
     text-decoration: none;
 }
 
+hr{
+    color: white;
+}
+
 .resume-contents {
     min-height: 100vh;
     width: 80%;
@@ -50,6 +54,7 @@ a{
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .profession {
@@ -112,6 +117,14 @@ a{
     padding-bottom: 0.5rem;
     font-weight: bolder;
 }
+
+.right-title-education{
+    color: #eeeeee;
+    padding-left: 2rem;
+    font-size: 25px;
+    padding-bottom: 0.5rem;
+    font-weight: bolder;
+}
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
@@ -136,7 +149,7 @@ a{
 }
 
 .exp-time-period,
-.educationp-time-period,
+.education-time-period,
 .awards-time-period {
     font-size: 18px;
 }
@@ -153,3 +166,4 @@ a{
     font-size: 16px;
     padding-left: 5px;
 }
+
