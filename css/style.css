@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     list-style: none;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 a{
@@ -64,7 +64,7 @@ hr{
     text-align: center;
 }
 
-/* .contact-info { border-bottom: 2px solid #1B2631; } */
+
 .left-title {
     color: #eeeeee;
     font-size: 20px;
@@ -110,24 +110,10 @@ hr{
     padding-bottom: 2rem;
 }
 
-.right-title-experience{
-    color: #eeeeee;
-    padding-left: 2rem;
-    font-size: 25px;
-    padding-bottom: 0.5rem;
-    font-weight: bolder;
-}
-
-.right-title-education{
-    color: #eeeeee;
-    padding-left: 2rem;
-    font-size: 25px;
-    padding-bottom: 0.5rem;
-    font-weight: bolder;
-}
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
+    text-align: justify;
 }
 
 .experience-contents,
@@ -137,7 +123,6 @@ hr{
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
     color: #F1F8FD;
-    padding-left: 2rem;
     padding-top: 0.5rem;
 }
 
